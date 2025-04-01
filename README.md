@@ -2,7 +2,7 @@
 
 ## Table of contents
 
--[Live Demo](#live-Demo)
+- [Live Demo](#live-Demo)
 - [Overview](#overview)
   - [The challenge](#the-challenge)
 - [My process](#my-process)
